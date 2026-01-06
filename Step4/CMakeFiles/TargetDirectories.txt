@@ -1,0 +1,10 @@
+/home/sunch1p/Projects/CmakeTutorial/Step4/CMakeFiles/edit_cache.dir
+/home/sunch1p/Projects/CmakeTutorial/Step4/CMakeFiles/rebuild_cache.dir
+/home/sunch1p/Projects/CmakeTutorial/Step4/Tutorial/CMakeFiles/Tutorial.dir
+/home/sunch1p/Projects/CmakeTutorial/Step4/Tutorial/CMakeFiles/edit_cache.dir
+/home/sunch1p/Projects/CmakeTutorial/Step4/Tutorial/CMakeFiles/rebuild_cache.dir
+/home/sunch1p/Projects/CmakeTutorial/Step4/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/sunch1p/Projects/CmakeTutorial/Step4/MathFunctions/CMakeFiles/edit_cache.dir
+/home/sunch1p/Projects/CmakeTutorial/Step4/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/sunch1p/Projects/CmakeTutorial/Step4/Vendor/CMakeFiles/edit_cache.dir
+/home/sunch1p/Projects/CmakeTutorial/Step4/Vendor/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tutorial.dir/Tutorial.cxx.o -o Tutorial   -L/home/sunch1p/Projects/CmakeTutorial/Step4/Vendor/lib  -Wl,-rpath,/home/sunch1p/Projects/CmakeTutorial/Step4/Vendor/lib ../MathFunctions/libMathFunctions.a -lVendor 
