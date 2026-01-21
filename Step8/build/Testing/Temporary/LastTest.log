@@ -1,0 +1,64 @@
+Start testing: Jan 21 01:15 EST
+----------------------------------------------------------
+1/4 Testing: add
+1/4 Test: add
+Command: "/home/connor/Projects/CmakeTutorial/Step8/build/Tests/TestMathFunctions" "add"
+Directory: /home/connor/Projects/CmakeTutorial/Step8/build/Tests
+"add" start time: Jan 21 01:15 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"add" end time: Jan 21 01:15 EST
+"add" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: mul
+2/4 Test: mul
+Command: "/home/connor/Projects/CmakeTutorial/Step8/build/Tests/TestMathFunctions" "mul"
+Directory: /home/connor/Projects/CmakeTutorial/Step8/build/Tests
+"mul" start time: Jan 21 01:15 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"mul" end time: Jan 21 01:15 EST
+"mul" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: sqrt
+3/4 Test: sqrt
+Command: "/home/connor/Projects/CmakeTutorial/Step8/build/Tests/TestMathFunctions" "sqrt"
+Directory: /home/connor/Projects/CmakeTutorial/Step8/build/Tests
+"sqrt" start time: Jan 21 01:15 EST
+Output:
+----------------------------------------------------------
+INFO: Computed sqrt of 25 to be 5 with GNU-builtins
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"sqrt" end time: Jan 21 01:15 EST
+"sqrt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: sub
+4/4 Test: sub
+Command: "/home/connor/Projects/CmakeTutorial/Step8/build/Tests/TestMathFunctions" "sub"
+Directory: /home/connor/Projects/CmakeTutorial/Step8/build/Tests
+"sub" start time: Jan 21 01:15 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"sub" end time: Jan 21 01:15 EST
+"sub" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 21 01:15 EST
