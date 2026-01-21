@@ -1,1 +1,1 @@
-STREQUAL - for string matching
+target_link_options()
