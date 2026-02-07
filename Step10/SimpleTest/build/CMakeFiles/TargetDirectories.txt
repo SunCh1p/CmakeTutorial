@@ -1,0 +1,6 @@
+/home/sunch1p/Projects/CmakeTutorial/Step10/SimpleTest/build/CMakeFiles/edit_cache.dir
+/home/sunch1p/Projects/CmakeTutorial/Step10/SimpleTest/build/CMakeFiles/rebuild_cache.dir
+/home/sunch1p/Projects/CmakeTutorial/Step10/SimpleTest/build/CMakeFiles/list_install_components.dir
+/home/sunch1p/Projects/CmakeTutorial/Step10/SimpleTest/build/CMakeFiles/install.dir
+/home/sunch1p/Projects/CmakeTutorial/Step10/SimpleTest/build/CMakeFiles/install/local.dir
+/home/sunch1p/Projects/CmakeTutorial/Step10/SimpleTest/build/CMakeFiles/install/strip.dir

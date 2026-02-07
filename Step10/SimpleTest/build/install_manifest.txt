@@ -1,0 +1,6 @@
+/home/sunch1p/Projects/CmakeTutorial/Step10/install/include/SimpleTest.h
+/home/sunch1p/Projects/CmakeTutorial/Step10/install/lib/cmake/SimpleTest/SimpleTestTargets.cmake
+/home/sunch1p/Projects/CmakeTutorial/Step10/install/lib/cmake/SimpleTest/simpletest_discover_impl.cmake
+/home/sunch1p/Projects/CmakeTutorial/Step10/install/lib/cmake/SimpleTest/simpletest_discover_tests.cmake
+/home/sunch1p/Projects/CmakeTutorial/Step10/install/lib/cmake/SimpleTest/SimpleTestConfig.cmake
+/home/sunch1p/Projects/CmakeTutorial/Step10/install/lib/cmake/SimpleTest/SimpleTestConfigVersion.cmake
